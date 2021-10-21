@@ -64,6 +64,28 @@ More information on GitHub for new users can be found here: https://guides.githu
                                                             https://www.youtube.com/watch?v=RGOj5yH7evk
                                                             https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
                                                             
+                                                            
+                                                            
+                                                        
+# Wait I forgot... RULES
+
+Just a few rules to make this collaboration enviroment friendly and relevant:
+
+--> Keep everything family friendly and safe i.e. no swearing, explicit content etc.
+
+--> Don't comment/message things which are completely irrelevant (so are very personal to you, or are just not coding/repo related), but do feel free to ask
+    people how they are. This is not particularly binding, so don't worry too much about this, but keep it in mind.
+    
+--> Do not spam pull/merge requests, otherwise they will *definitiely* not be accepted (reposting if a lot of feed has happened is fine).
+
+--> Be friendly and non-toxic
+
+
+Please obey this rules, or you may be banned, but don't feel constrained. 
+
+
+
+# *HAPPY CODING!*
             
     
     
