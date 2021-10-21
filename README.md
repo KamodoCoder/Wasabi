@@ -1,8 +1,4 @@
-   __        __              _     _ 
-   \ \      / /_ _ ___  __ _| |__ (_)
-    \ \ /\ / / _` / __|/ _` | '_ \| |
-     \ V  V / (_| \__ \ (_| | |_) | |
-      \_/\_/ \__,_|___/\__,_|_.__/|_|
+ # WASABI
                                    
 
 
@@ -26,15 +22,15 @@ We have three documents in this repository:
     however all of these can be called coding languages, as it uses text in a file format do do something (no necessarily input driven however).
     This is a good source to learn HTML: https://www.w3schools.com/html/default.asp
     
-    However, in that document there is more than just HTML, there is JavaScript (abbreviated JS), and CSS, which stands for Cascading Style Sheets. JS is
+--> However, in that document there is more than just HTML, there is JavaScript (abbreviated JS), and CSS, which stands for Cascading Style Sheets. JS is
     a programming language, and is used inbetween the script tags of an HTML document (but can be in a different JS file, or JSON for APIs, or Application
     Programming Interfaces, more about them at the end of this point). I reccomend here to learn JS: https://www.w3schools.com/js/default.asp
     
-    And finally we come to CSS, the show, or *style* of the document, hence being used between the style tags. It is all about formatting text and images and
+--> And finally we come to CSS, the show, or *style* of the document, hence being used between the style tags. It is all about formatting text and images and
     videos to make them look nice. Here is a good learning resource for it: https://www.w3schools.com/css/default.asp
     
     
-    HTML is used mostly in web pages, and are very useful for doing so. The HTML is the display, the CSS is the style, and JS is the brainworks behind it. It is 
+--> HTML is used mostly in web pages, and are very useful for doing so. The HTML is the display, the CSS is the style, and JS is the brainworks behind it. It is 
     also the language used for APIs, or Application Programme Interfaces, which are essentially used to communicate with the webpage to help it do its job, and
     actually take data from it / send data to it. Here is a very good video on APIs: https://www.youtube.com/watch?v=GZvSYJDk-us
     
