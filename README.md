@@ -41,7 +41,7 @@ We have three documents in this repository:
                                                                                                        https://www.w3schools.in/c-tutorial/
                                                                                                        https://www.w3schools.com/cpp/default.asp
     
-    C# us a language used a lot for applications, and so is very useful to know. First came C, a coding language with very challenging but rewarding syntax,
+--> C# us a language used a lot for applications, and so is very useful to know. First came C, a coding language with very challenging but rewarding syntax,
     then came C++, a continuation of C in a different way. But then came Microsoft, which to C and made it into the easier C#. C# is very similar to JS or Java
     today, however actually descended form C++, so if you want to learn JS or Java, knowing some C# could make it easier. C# is a programming language which
     uses namespaces to create and application of some sort. Namespaces are a collection of classes. And classes are a collection of functions, or methods, which
