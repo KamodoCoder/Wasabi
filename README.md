@@ -57,7 +57,7 @@ I hope this is useful for those who know not so much about these languages, and 
 there is more than just templates, there will be projects we can work on together, as a collective, and feel free to leave any comments on this to give me ideas,
 and if you know me, contact me!
 
-Here is the website `I recommend using for coding, and learning whatever language you may want. There is a wide variety, and is very beginner friendly:
+Here is the website I recommend using for coding, and learning whatever language you may want. There is a wide variety, and is very beginner friendly:
                                                                                                                           https://www.w3schools.com/
 
 More information on GitHub for new users can be found here: https://guides.github.com/activities/hello-world/
