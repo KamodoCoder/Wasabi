@@ -81,7 +81,7 @@ Just a few rules to make this collaboration enviroment friendly and relevant:
 --> Be friendly and non-toxic
 
 
-Please obey this rules, or you may be banned, but don't feel constrained. 
+Please obey these rules, or you may be banned, but don't feel constrained. 
 
 
 
