@@ -24,7 +24,7 @@ We have three documents in this repository:
     
 --> However, in that document there is more than just HTML, there is JavaScript (abbreviated JS), and CSS, which stands for Cascading Style Sheets. JS is
     a programming language, and is used inbetween the script tags of an HTML document (but can be in a different JS file, or JSON for APIs, or Application
-    Programming Interfaces, more about them at the end of this point). I reccomend here to learn JS: https://www.w3schools.com/js/default.asp
+    Programming Interfaces, more about them at the end of this point). I recommend here to learn JS: https://www.w3schools.com/js/default.asp
     
 --> And finally we come to CSS, the show, or *style* of the document, hence being used between the style tags. It is all about formatting text and images and
     videos to make them look nice. Here is a good learning resource for it: https://www.w3schools.com/css/default.asp
@@ -56,6 +56,9 @@ We have three documents in this repository:
 I hope this is useful for those who know not so much about these languages, and which to make branches on these documents, to help with their learning. Of course,
 there is more than just templates, there will be projects we can work on together, as a collective, and feel free to leave any comments on this to give me ideas,
 and if you know me, contact me!
+
+Here is the website `I recommend using for coding, and learning whatever language you may want. There is a wide variety, and is very beginner friendly:
+                                                                                                                          https://www.w3schools.com/
 
 More information on GitHub for new users can be found here: https://guides.github.com/activities/hello-world/
                                                             https://www.youtube.com/watch?v=RGOj5yH7evk
